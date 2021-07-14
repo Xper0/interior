@@ -1,0 +1,418 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.paddingslide {
+    padding-left: 98px;
+    padding-right: 98px;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.contener {
+
+    width: 1366px;
+    height: 2129px;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 63px;
+    min-height: 119px;
+
+
+}
+
+.menu {
+    margin-right: 69px;
+}
+
+.menu-link {
+    /* Style for "HOME     P" */
+    text-decoration: none;
+    color: #8c8c8c;
+    font-size: 14px;
+    font-weight: 300;
+    text-transform: uppercase;
+    padding: 10px 13px;
+}
+
+.menu-link:hover {
+    color: red;
+}
+
+.menu2 {
+    height: 70px;
+    background-color: #f4f4f4;
+    max-width: 1366px;
+}
+
+.menushka {
+
+    margin-left: 360px;
+    list-style-type: none;
+}
+
+.lists {
+    float: left;
+    padding: 28px 18px;
+
+}
+
+.linls {
+    /* Style for "All" */
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "All" */
+    letter-spacing: 1.8px;
+}
+
+.wid {
+    color: #212121;
+
+}
+
+
+.navtext {
+    
+    height: 1556px;
+
+
+}
+
+.pict {
+    width: 1366px;
+}
+
+.pictone {
+    float: left;
+}
+
+.pictone img {
+    margin-top: 72px;
+
+}
+
+.pic {
+    margin-top: -72px;
+    list-style-type: none;
+    margin-left: 150px;
+}
+
+
+.pic li {
+    float: left;
+    margin: 10px;
+
+}
+
+.sltext {
+
+    float: right;
+    width: 499px;
+    min-height: 700px;
+
+}
+
+text {
+    text-align: center;
+}
+
+.text h2 {
+    /* Style for "Fishnet Ch" */
+    margin-top: 119px;
+    text-align: center;
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.text h3 {
+    /* Style for "Hot Deal" */
+    margin-top: -15px;
+    text-align: center;
+    color: #e53935;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 48.02px;
+    text-transform: uppercase;
+    /* Text style for "Hot Deal" */
+
+    letter-spacing: 1.8px;
+}
+
+.text h1 {
+    margin-top: 36px;
+    text-align: center;
+    /* Style for "$ 36.7/sq" */
+    color: #212121;
+    font-family: Gotham;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 48.02px;
+
+
+}
+
+.l36 {
+    font-size: 48px;
+    /* Text style for "36.7" */
+    font-size: 72px;
+    text-transform: uppercase;
+}
+
+.text button {
+    margin-top: 31px;
+    /* Style for "btn" */
+    width: 510px;
+    height: 71px;
+    box-shadow: 0 2px 5px 1px rgba(33, 33, 33, 0.35);
+    border-radius: 35px;
+    background-color: #f44336;
+    /* Style for "Order Us" */
+
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.01px;
+    text-transform: uppercase;
+    /* Text style for "Order Us" */
+    letter-spacing: 4.4px;
+}
+
+.text p {
+    margin-top: 49px;
+    /* Style for "The majest" */
+    width: 499px;
+    color: #212121;
+    font-family: Gotham;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24.01px;
+    /* Text style for "The majest" */
+    letter-spacing: 0.4px;
+}
+
+
+
+
+.logo {
+    float: left;
+}
+
+.menu {
+    list-style-type: none;
+    float: right;
+}
+
+.menu-list {
+    float: left;
+}
+
+slider1108 {}
+
+
+.Trending {
+    float: left;
+    margin-top: 245px;
+    /* Style for "Trending P" */
+    color: #212121;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 19px;
+    letter-spacing: 0px;
+}
+
+.Ixplore {
+    margin-top: 262px;
+    float: right;
+    /* Style for "explore al" */
+    color: #212121;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "explore al" */
+    letter-spacing: 3.6px;
+    text-decoration: none;
+
+}
+
+.picture {
+    float: left;
+    width: 1366px;
+}
+
+.menu3 {
+
+    list-style-type: none;
+
+}
+
+.menu-link3 {
+
+    width: 370px;
+    height: 370px;
+    margin: 20px;
+    float: left;
+}
+
+.link3 {
+    margin-left: 0px;
+}
+
+.footer {
+    background-color: #f7f7f7;
+    max-width: 1366px;
+    min-height: 384px;
+}
+
+.row {}
+
+.col-md-4 {}
+
+.cont h2 {
+    /* Style for "Contact Us" */
+    margin-top: 120px;
+    color: #6c6c6c;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    /* Text style for "C, ontact" */
+    letter-spacing: 1.8px;
+}
+
+.p1 {
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    width: 221px;
+}
+
+.p2 {
+    width: 363px;
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+
+}
+
+.email0 {
+    margin-top: 26px;
+    /* Style for "input" */
+    width: 370px;
+    height: 48px;
+    border: 1px solid #d9dee1;
+    background-color: #ffffff;
+    padding-left: 19px;
+}
+
+
+.text {
+    margin-top: 25px;
+}
+
+.text li {
+
+    list-style-type: none;
+}
+
+.text p {
+    /* Style for "132A Bridg" */
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    
+}
+
+.cir {
+    display: inline-block;
+    margin-top: 76px;
+    margin-left: 76px;
+}
+
+.circle {
+    /* Style for "active" */
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-color: #c7c7c7;
+    border-radius: 50%;
+    padding: 7px ;
+    
+    
+}
+
+.circle:hover {
+    background: #212121;
+}
+
+.blok1 ul {
+    list-style-type: none;
+}
+
+.blok2 ul {
+    
+    list-style-type: none;
+}
+
+.text {
+    clear: both;
+}
+
+.blok1 {
+    width: 132px;
+    height: 62px;
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+    /* Text style for "Sales term" */
+    letter-spacing: 0.7px;
+    float: left;
+}
+
+.blok2 {
+    /* Style for "Architect" */
+    width: 187px;
+    height: 63px;
+
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+    /* Text style for "Architect" */
+    letter-spacing: 0.7px;
+    float: right;
+    /* Style for "Sales term" */
+
+
+}
+
+.contcopy {
+    margin-top: 77px;
+}
+
+.terms {
+    margin-top: 21px;
+}
+
